@@ -4,19 +4,17 @@ A **Residência em Dados com Inteligência Artificial** é um programa imersivo 
 
 ---
 
-## Objetivos de Aprendizado
+## Objetivos de Aprendizado ⤵
 
 -  **Análise Exploratória e Diagnóstico de Dados:** Identificação de padrões, tendências e comportamentos em dados corporativos.
-- **Storytelling com Dados (Data Storytelling):** Construção de narrativas visuais eficazes inspiradas na metodologia de Cole Nussbaumer Knaflic (*Storytelling com Dados*).
+- **Storytelling com Dados:** Construção de narrativas visuais eficazes inspiradas na metodologia de Cole Nussbaumer Knaflic 
 - **Visualização Avançada e Interativa:** Criação de dashboards e gráficos de alto impacto com **Plotly**.
 - **Comunicação Executiva:** Integração de análises técnicas com artefatos de apresentação em alta definição (PDFs interativos e apresentações executivas).
 - **Inteligência Artificial & Machine Learning:** Aplicação de algoritmos inteligentes para solução de problemas complexos.
 
 ---
-## AULA 1
----
 
-## 🗓️ Jornada de Aprendizado & Diário de Bordo
+## ✎ Jornada de Aprendizado & Diário de Bordo 
 
 | Módulo / Aula | Tema Principal | Principais Ferramentas & Conceitos | Entrega / Artefato |
 | :--- | :--- | :--- | :---: |
@@ -25,18 +23,18 @@ A **Residência em Dados com Inteligência Artificial** é um programa imersivo 
 
 ---
 
-### 📌 Aula 01 | Projeto: Diagnóstico Executivo de Projetos
+### ▁ ▂ ▃ ▄ ▅ ▆ ▇ █ ▉ ▊ ▋ Aula 01 | Projeto: Diagnóstico Executivo de Projetos
 
 <details>
 <summary><b>🔍 Clique aqui para ver o resumo completo da Aula 01 e do desenvolvimento do projeto</b></summary>
 
 <br>
 
-#### 🎯 O Desafio
+#### ☇ O Desafio 
 * **Demanda Inicial:** Manipulação exploratória e integração a partir de 3 tabelas de dados fornecidas em aula.
 * **Iniciativa & Evolução:** Após a recomendação do professor sobre a obra *"Storytelling com Dados"* (Cole Nussbaumer Knaflic), a análise foi expandida de um tratamento básico para uma entrega analítica e executiva focada em tomada de decisão.
 
-#### 🛠️ O que foi desenvolvido e aprendido:
+#### ✅ O que foi desenvolvido e aprendido: ✅
 1. **Manipulação & Engenharia de Dados:**
    - Tratamento de datas e cálculo de tempo de contrato/antiguidade de clientes.
    - Agregação de faturamento por marca parceira.
