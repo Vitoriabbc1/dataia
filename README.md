@@ -13,3 +13,47 @@ A **Residência em Dados com Inteligência Artificial** é um programa imersivo 
 - **Inteligência Artificial & Machine Learning:** Aplicação de algoritmos inteligentes para solução de problemas complexos.
 
 ---
+______________________________________________________________________________________________________________
+## AULA 1
+---
+
+## 🗓️ Jornada de Aprendizado & Diário de Bordo
+
+| Módulo / Aula | Tema Principal | Principais Ferramentas & Conceitos | Entrega / Artefato |
+| :--- | :--- | :--- | :---: |
+| **Aula 01 / Projeto 01** | Diagnóstico Executivo & Storytelling | Python, Pandas, Plotly, Storytelling (Cole Nussbaumer) | [Ver Detalhes 👇](#-aula-01--projeto-diagnóstico-executivo-de-projetos) |
+| **Aula 02** | *[Em breve]* | *[Ferramentas]* | ⏳ |
+
+---
+
+### 📌 Aula 01 | Projeto: Diagnóstico Executivo de Projetos
+
+<details>
+<summary><b>🔍 Clique aqui para ver o resumo completo da Aula 01 e do desenvolvimento do projeto</b></summary>
+
+<br>
+
+#### 🎯 O Desafio
+* **Demanda Inicial:** Manipulação exploratória e integração a partir de 3 tabelas de dados fornecidas em aula.
+* **Iniciativa & Evolução:** Após a recomendação do professor sobre a obra *"Storytelling com Dados"* (Cole Nussbaumer Knaflic), a análise foi expandida de um tratamento básico para uma entrega analítica e executiva focada em tomada de decisão.
+
+#### 🛠️ O que foi desenvolvido e aprendido:
+1. **Manipulação & Engenharia de Dados:**
+   - Tratamento de datas e cálculo de tempo de contrato/antiguidade de clientes.
+   - Agregação de faturamento por marca parceira.
+2. **Visualização & Storytelling no Plotly:**
+   - Aplicação de técnicas de *declutter* (remoção de linhas de grade, eixos redundantes e poluição visual).
+   - Destaque focado em dados críticos usando paletas neutras e destaques pontuais.
+   - Renderização estática garantida no GitHub usando salvamento direto em imagens (`fig.write_image`).
+3. **Comunicação Executiva:**
+   - Estruturação de apresentação no Canva em alta definição.
+   - Apresentação sequencial correta ordenada via código (`sorted` por chave numérica).
+   - Criação de artefato com navegação interativa via PDF e link público.
+
+#### 🔗 Links do Projeto
+- 📓 **Notebook da Aula:** [`diagnostico_projetos.ipynb`](./diagnostico_projetos.ipynb)
+- 📊 **Apresentação Executiva (PDF):** `slides/`
+
+</details>
+
+---
