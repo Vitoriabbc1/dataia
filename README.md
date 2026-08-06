@@ -1,2 +1,1 @@
-# dataia
-Curso ECOA-PUC RIO
+![capa dados](dataia/capa1.jpeg)
