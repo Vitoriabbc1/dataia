@@ -1,1 +1,1 @@
-![capa dados](dataia/capa1.jpeg)
+![capa dados](capa1.jpeg)
