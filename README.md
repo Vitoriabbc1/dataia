@@ -20,7 +20,7 @@ A **Residência em Dados com Inteligência Artificial** é um programa imersivo 
 
 | Módulo / Aula | Tema Principal | Principais Ferramentas & Conceitos | Entrega / Artefato |
 | :--- | :--- | :--- | :---: |
-| **Aula 01 / Projeto 01** | Diagnóstico Executivo & Storytelling | Python, Pandas, Plotly, Storytelling (Cole Nussbaumer) | [Ver Detalhes 👇](aula1_dataia.ipynb) |
+| **Aula 01 / Projeto 01** | Diagnóstico Executivo & Storytelling | Python, Pandas, Plotly, Storytelling | [Ver Detalhes 👇](aula1_dataia.ipynb) |
 | **Aula 02** | *[Em breve]* | *[Ferramentas]* | ⏳ |
 
 ---
