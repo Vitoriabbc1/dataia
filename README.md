@@ -1,7 +1,5 @@
 ![capa dados](capa1.jpeg)
 
-Sobre o Programa
-
 A **Residência em Dados com Inteligência Artificial** é um programa imersivo promovido pela **PUC-Rio** em parceria com a **ECOA**. O programa tem como objetivo capacitar profissionais para transformar grandes volumes de dados em decisões estratégicas, combinando fundamentação teórica sólida com práticas hands-on aplicadas ao mercado.
 
 ---
