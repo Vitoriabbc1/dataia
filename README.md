@@ -1,6 +1,6 @@
 ![capa dados](Aula_1/capa1.jpeg)
 
-A **Residência em Dados com Inteligência Artificial** é um programa imersivo promovido pela **PUC-Rio** em parceria com a **ECOA**. Possui objetivo capacitar profissionais para transformar grandes volumes de dados em decisões estratégicas, combinando fundamentação teórica sólida com práticas hands-on aplicadas ao mercado.
+A **Residência em Dados com Inteligência Artificial** é um programa imersivo promovido pela **PUC-Rio** em parceria com a **ECOA**. Possui como objetivo capacitar profissionais para transformar grandes volumes de dados em decisões estratégicas, combinando fundamentação teórica sólida com práticas hands-on aplicadas ao mercado.
 
 ---
 
@@ -48,8 +48,8 @@ A **Residência em Dados com Inteligência Artificial** é um programa imersivo 
    - Criação de artefato com navegação interativa via PDF e link público.
 
 #### 🔗 Links do Projeto
-- 📓 **Notebook da Aula:** [`diagnostico_projetos.ipynb`](aula1_dataia.ipynb)
-- 📊 **Apresentação Executiva (PDF):** `slides/`
+- 📓 **Notebook da Aula:** [Aula 1 - Notebook](https://github.com/Vitoriabbc1/dataia/blob/main/Aula_1/aula1_dataia.ipynb)
+- 📊 **Apresentação Executiva (PDF):** [Storytelling das Informações](https://github.com/Vitoriabbc1/dataia/blob/main/Aula_1/apresenta%C3%A7%C3%A3o.pdf) 
 
 </details>
 
